@@ -25,3 +25,4 @@ chavesVariadas.set(123, 'b')
 chavesVariadas.set(456, 'b')
 console.log(chavesVariadas)
 
+
